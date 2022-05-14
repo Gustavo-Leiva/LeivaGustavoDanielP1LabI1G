@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1652489045 source:c:\users\impuestos\desktop\utn\1er cuatrimestre 2022\ejerciciosencodeblocks\1erparcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1652486735 c:\users\impuestos\desktop\utn\1er cuatrimestre 2022\ejerciciosencodeblocks\1erparcial\servicio.h
+
+1652489044 source:c:\users\impuestos\desktop\utn\1er cuatrimestre 2022\ejerciciosencodeblocks\1erparcial\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1652482058 c:\users\impuestos\desktop\utn\1er cuatrimestre 2022\ejerciciosencodeblocks\1erparcial\color.h
+
+1652486396 source:c:\users\impuestos\desktop\utn\1er cuatrimestre 2022\ejerciciosencodeblocks\1erparcial\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1652485242 c:\users\impuestos\desktop\utn\1er cuatrimestre 2022\ejerciciosencodeblocks\1erparcial\tipos.h
+
+1652491518 source:c:\users\impuestos\desktop\utn\1er cuatrimestre 2022\ejerciciosencodeblocks\1erparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1652491401 c:\users\impuestos\desktop\utn\1er cuatrimestre 2022\ejerciciosencodeblocks\1erparcial\mascota.h
+	"tipos.h"
+
+1652491521 source:c:\users\impuestos\desktop\utn\1er cuatrimestre 2022\ejerciciosencodeblocks\1erparcial\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+	"color.h"
+	"tipos.h"
+	"servicio.h"
+
